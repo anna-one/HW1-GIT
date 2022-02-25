@@ -1,0 +1,23 @@
+8803b56 (HEAD -> develop, origin/develop, feature3) HEAD@{0}: merge feature3: Fast-forward
+c91836a (master, feature2, feature1) HEAD@{1}: checkout: moving from feature3 to develop
+8803b56 (HEAD -> develop, origin/develop, feature3) HEAD@{2}: commit: create style2.css for index.html
+c91836a (master, feature2, feature1) HEAD@{3}: checkout: moving from develop to feature3
+c91836a (master, feature2, feature1) HEAD@{4}: checkout: moving from master to develop
+c91836a (master, feature2, feature1) HEAD@{5}: merge develop: Fast-forward
+8e33f2c HEAD@{6}: checkout: moving from feature2 to master
+c91836a (master, feature2, feature1) HEAD@{7}: merge develop: Fast-forward
+edcb5a2 HEAD@{8}: checkout: moving from feature1 to feature2
+c91836a (master, feature2, feature1) HEAD@{9}: merge develop: Fast-forward
+175f8be HEAD@{10}: checkout: moving from develop to feature1
+c91836a (master, feature2, feature1) HEAD@{11}: commit (merge): fixed conflict
+175f8be HEAD@{12}: merge feature1: Fast-forward
+6ff7465 HEAD@{13}: checkout: moving from feature2 to develop
+edcb5a2 HEAD@{14}: commit: create file style.css for index.html
+6ff7465 HEAD@{15}: checkout: moving from develop to feature2
+6ff7465 HEAD@{16}: checkout: moving from feature1 to develop
+175f8be HEAD@{17}: commit: add img in index.html
+cbe313b HEAD@{18}: commit: create folder img and add img in folder
+6ff7465 HEAD@{19}: checkout: moving from develop to feature1
+6ff7465 HEAD@{20}: commit: create index.html
+8e33f2c HEAD@{21}: checkout: moving from master to develop
+8e33f2c HEAD@{22}: commit (initial): add readme file
